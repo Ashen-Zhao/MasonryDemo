@@ -1,0 +1,14 @@
+//
+//  Masonry.pch
+//  MasonryDemo
+//
+//  Created by Ashen on 15/11/25.
+//  Copyright © 2015年 Ashen. All rights reserved.
+//
+
+#ifndef Masonry_pch
+#define Masonry_pch
+
+    #import "Masonry.h"
+
+#endif /* Masonry_pch */
